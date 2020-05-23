@@ -1,6 +1,6 @@
 ﻿/* EmployeeTest.cs
  * Exercise 4.11 - Store and display the first and last name of an employee, along with their monthly
- * salary and annual salary. Utilizing Employee objects.
+ * salary and annual salary. Allow for a single change to salary. Utilizing Employee objects.
  */
 using System;
 using System.Collections.Generic;

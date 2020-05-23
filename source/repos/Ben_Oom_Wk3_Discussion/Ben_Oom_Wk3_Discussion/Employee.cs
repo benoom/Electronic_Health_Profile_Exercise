@@ -1,5 +1,5 @@
 ﻿/*Employee.cs
- * Employee class with a AnnualSalary method
+ * Employee class with a SalaryAdjustment method
  */
 using System;
 using System.Collections.Generic;
