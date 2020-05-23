@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_3.28_Digits_of_an_Integer", "Exercise_3.28_Digits_of_an_Integer\Exercise_3.28_Digits_of_an_Integer.csproj", "{79C66939-679C-4867-840E-BD1A8059785E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C66939-679C-4867-840E-BD1A8059785E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C66939-679C-4867-840E-BD1A8059785E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C66939-679C-4867-840E-BD1A8059785E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C66939-679C-4867-840E-BD1A8059785E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C27DE1B2-F8F0-4342-8FA7-D416D714A552}
+	EndGlobalSection
+EndGlobal
